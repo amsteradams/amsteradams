@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amsteradams
 - 👀 I’m interested in Blockchain developpement
-- 🌱 I’m currently learning dapps developpement
-- 💞️ I’m looking to collaborate on dapps project
 - 📫 How to reach me https://www.linkedin.com/in/adam-k-8099541b1/
 
 <!---
